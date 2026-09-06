@@ -112,5 +112,3 @@ Aplikasi akan terbuka otomatis di browser Anda pada alamat: `http://localhost:85
 - **Program**: Hacktiv8 Final Project - *LLM-Based Tools and Gemini API Integration for Data Scientists*
 - **Tahun**: 2026
 
----
-*Dibuat dengan ❤️ dan ⚡ untuk komunitas pengembang IoT & Embedded System.*
